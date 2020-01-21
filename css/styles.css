@@ -1,5 +1,10 @@
 .flashy{
   font-style: italic;
   color: red;
-
+}
+.best{
+  background-color: blue;
+  text-align: center;
+  font-size: x-large;
+  color: white;
 }
